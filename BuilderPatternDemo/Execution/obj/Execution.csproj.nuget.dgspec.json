@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Execution\\Execution.csproj": {}
+    "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Execution\\Execution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Execution\\Execution.csproj": {
+    "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Execution\\Execution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Execution\\Execution.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Execution\\Execution.csproj",
         "projectName": "Execution",
-        "projectPath": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Execution\\Execution.csproj",
+        "projectPath": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Execution\\Execution.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Execution\\obj\\",
+        "outputPath": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Execution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Processing\\Processing.csproj": {
-                "projectPath": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Processing\\Processing.csproj"
+              "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Processing\\Processing.csproj": {
+                "projectPath": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Processing\\Processing.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Processing\\Processing.csproj": {
+    "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Processing\\Processing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Processing\\Processing.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Processing\\Processing.csproj",
         "projectName": "Processing",
-        "projectPath": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Processing\\Processing.csproj",
+        "projectPath": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Processing\\Processing.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\source\\repos\\BuilderPatternDemo\\Processing\\obj\\",
+        "outputPath": "C:\\Users\\student\\Source\\Repos\\PranavRao25\\Builder-Pattern-Demo\\BuilderPatternDemo\\Processing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

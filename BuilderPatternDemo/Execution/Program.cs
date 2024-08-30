@@ -7,7 +7,7 @@ namespace Execution
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Car Builder. Please specify your choice of car:");
-            List<string> carTypes = new List<string>{ "Hatchback", "Sedan", "SUV", "MUV", "Pickup", "Coupe", "Convertible" };
+            List<string> carTypes = new List<string>{ "Hatchback", "Sedan", "SUV", "MUV", "Convertible", "Coupe", "Pickup" };
 
             for (int i = 0; i < carTypes.Count; i++)
             {
