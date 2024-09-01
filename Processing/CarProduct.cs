@@ -103,7 +103,7 @@ namespace Processing
         /// <param name="givenBootCapacity">Boot Capacity the car must have</param>
         public void SetBootCapacity(int givenBootCapacity)
         {
-            if (givenBootCapacity > 0)
+            if (givenBootCapacity >= 0)
             {
                 BootCapacity = givenBootCapacity;
             }

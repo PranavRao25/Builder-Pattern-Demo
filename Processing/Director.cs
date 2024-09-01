@@ -13,6 +13,7 @@
         /// <param name="builderType">Car Type specified by user</param>
         public Director(int builderType)
         {
+            Console.WriteLine(builderType);
             switch(builderType)
             {
                 case 1: /// <summary>Hatchback</summary>
