@@ -1,3 +1,15 @@
+﻿/******************************************************************************
+ * Filename    = UnitTest.cs
+ *
+ * Author      = Pranav Guruprasad Rao
+ *
+ * Product     = BuilderPatternDemo
+ * 
+ * Project     = BuilderPatternDemoTest
+ *
+ * Description = Unit Tests
+ *****************************************************************************/
+
 using NUnit.Framework;
 using System;
 using System.Text;
