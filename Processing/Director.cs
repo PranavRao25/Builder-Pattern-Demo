@@ -1,4 +1,16 @@
-﻿namespace Processing
+﻿/******************************************************************************
+ * Filename    = Director.cs
+ *
+ * Author      = Pranav Guruprasad Rao
+ *
+ * Product     = BuilderPatternDemo
+ * 
+ * Project     = Processing
+ *
+ * Description = Director for Car Product
+ *****************************************************************************/
+
+namespace Processing
 {
     /// <summary>
     /// Directs the construction of Cars according to user choice
