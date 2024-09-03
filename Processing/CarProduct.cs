@@ -1,4 +1,16 @@
-﻿using System;
+﻿/******************************************************************************
+ * Filename    = CarProduct.cs
+ *
+ * Author      = Pranav Guruprasad Rao
+ *
+ * Product     = BuilderPatternDemo
+ * 
+ * Project     = Processing
+ *
+ * Description = Details about the Car Product
+ *****************************************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
